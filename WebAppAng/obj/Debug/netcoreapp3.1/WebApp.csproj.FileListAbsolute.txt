@@ -1,0 +1,167 @@
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\libman.json
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.exe
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.deps.json
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.pdb
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\BLL.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\DAL.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.dll
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.pdb
+D:\TestBLSSoft — копия\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\libman.json
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.exe
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.deps.json
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.pdb
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\BLL.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\DAL.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.dll
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.pdb
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+D:\TestBLSSoft\TestBlsSoft\WebAppAng\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig

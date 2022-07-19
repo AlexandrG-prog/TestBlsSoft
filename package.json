@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/material": "^13.2.5",
+    "@material/select": "^13.0.0"
+  }
+}

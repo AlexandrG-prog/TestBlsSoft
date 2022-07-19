@@ -1,0 +1,41 @@
+﻿
+h1 {
+    text-align: center;
+}
+
+.btn.btn-default {
+    color: #fff;
+    background-color: #1b6ec2;
+}
+
+.btns_col {
+    width: 180px;
+}
+
+form {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+input.ng-touched.ng-invalid {
+    border: solid red 2px;
+}
+
+input.ng-touched.ng-valid {
+    border: solid green 2px;
+}
+
+.link {
+    right: 80px;
+    position: absolute;
+}
+
+table td {
+    text-align: center;
+}
+
+input[type='checkbox'] {
+    width: 30px;
+    height: 30px;
+}

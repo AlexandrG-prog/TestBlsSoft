@@ -1,0 +1,37 @@
+D:\TestBLSSoft\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\TestBLSSoft\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\TestBLSSoft\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\TestBLSSoft\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\TestBLSSoft\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+E:\TestBLSSoft\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+E:\TestBLSSoft\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+E:\TestBLSSoft\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+E:\TestBLSSoft\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\TestBLSSoft\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+E:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+E:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+E:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+E:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+E:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+E:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\TestBLSSoft — копия\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+D:\TestBLSSoft\TestBlsSoft\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
